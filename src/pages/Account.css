@@ -1,0 +1,9 @@
+body {
+  background-color: #87CEFA; /* Light blue color code */
+  background-image: url(https://images.pexels.com/photos/4695929/pexels-photo-4695929.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-size: cover; /* Cover the entire screen */
+  background-position: center; /* Center the background image */
+  margin: 0; /* Remove default body margin */
+  font-family: 'Salsa', cursive;/* Specify your preferred font */
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.3); /* Linear gradient shadow */
+}
